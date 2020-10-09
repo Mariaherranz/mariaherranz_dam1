@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ecdd45e5-5ece-443d-8450-342b680608f5" name="Default Changelist" comment="" />
+    <list default="true" id="5280ef7a-b60b-4208-8fcf-ab21b43ae11b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T2_Ejercicio-Factura.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecturas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecturas.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +20,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1iGwNNTCpJEV5xFfu53VrknEd9I" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1id9tliEJHF8vQ5ED0irE54zA9P" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,34 +32,51 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Lecturas">
-    <configuration name="Entrada" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Entrada" />
-      <module name="T2_Inicio" />
+  <component name="RunManager" selected="Application.Bar">
+    <configuration name="Bar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bar" />
+      <module name="T2_Ejercicio-Factura" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Entrada1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Entrada1" />
-      <module name="T2_Inicio" />
+    <configuration name="Conversor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Conversor" />
+      <module name="T2_Ejercicio-Factura" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Factura" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Factura" />
+      <module name="T2_Ejercicio-Factura" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Formatopersonas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Formatopersonas" />
+      <module name="T2_Ejercicio-Factura" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Lecturas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lecturas" />
-      <module name="T2_Inicio" />
+      <module name="T2_Ejercicio-Factura" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Bar" />
+        <item itemvalue="Application.Formatopersonas" />
+        <item itemvalue="Application.Conversor" />
         <item itemvalue="Application.Lecturas" />
-        <item itemvalue="Application.Entrada1" />
-        <item itemvalue="Application.Entrada" />
+        <item itemvalue="Application.Factura" />
       </list>
     </recent_temporary>
   </component>
@@ -70,34 +97,30 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ecdd45e5-5ece-443d-8450-342b680608f5" name="Default Changelist" comment="" />
-      <created>1601547197498</created>
+      <changelist id="5280ef7a-b60b-4208-8fcf-ab21b43ae11b" name="Default Changelist" comment="" />
+      <created>1602226818876</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1601547197498</updated>
+      <updated>1602226818876</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1557" height="221" key="GridCell.Tab.0.bottom" timestamp="1601900485053">
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1602233408576">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="221" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1601900485053" />
-    <state width="1557" height="221" key="GridCell.Tab.0.center" timestamp="1601900485053">
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1602233408576" />
+    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1602233408576">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="221" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1601900485053" />
-    <state width="1557" height="221" key="GridCell.Tab.0.left" timestamp="1601900485053">
+    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1602233408576" />
+    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1602233408576">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="221" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1601900485053" />
-    <state width="1557" height="221" key="GridCell.Tab.0.right" timestamp="1601900485053">
+    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1602233408576" />
+    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1602233408576">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="221" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1601900485053" />
-    <state x="862" y="105" key="com.intellij.ide.util.TipDialog" timestamp="1601896152847">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="862" y="105" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1601896152847" />
+    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1602233408576" />
   </component>
 </project>

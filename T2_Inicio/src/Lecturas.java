@@ -2,11 +2,6 @@ import java.util.Scanner;
 
 public class Lecturas {
 
-
-
-    Scanner teclado = new Scanner(System.in);
-    String lectura = teclado.next();
-    System.out.println(lectura);
     /*
      *Introduce tu nombre
      * Maria
@@ -17,15 +12,18 @@ public class Lecturas {
      * Hola Maria Herranz tu edad es 19
      */
 
-    public static void main(String[] args){
-    Scanner teclado = new Scanner(System.in);
-    System.out.println("Introduce tu nombre");
-    String nombre = teclado.next();
-    System.out.println("Introduce tu apellido");
-    String apellido = teclado.next();
-    System.out.println("Introduce la edad");
-    int edad = teclado.nextInt();
+    public static void main(String[] args) {
+        Scanner teclado = new Scanner(System.in);
+        System.out.println("Introduce tu nombre");
+        String nombre = teclado.next();
+        System.out.println("Introduce tu apellido");
+        String apellido = teclado.next();
+        System.out.println("Introduce la edad");
+        int edad = teclado.nextInt();
 
-    System.out.println("Hola "+ nombre + " " +apellido+ "tienes "+edad + " años");
+        System.out.println("Hola " + nombre + " " + apellido + "tienes " + edad + " años");
+        String lectura = teclado.next();
+        System.out.println(lectura);
+    }
 
 }
